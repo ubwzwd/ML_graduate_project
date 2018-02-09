@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/python/ML_project_2.0/temp_data/iv_model.ckpt-200"
+all_model_checkpoint_paths: "E:/python/ML_project_2.0/temp_data/iv_model.ckpt-200"

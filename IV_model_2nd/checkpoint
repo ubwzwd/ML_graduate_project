@@ -1,0 +1,5 @@
+model_checkpoint_path: "/Users/fengcheng/Library/Mobile Documents/com~apple~CloudDocs/EECE5644/Project/Project_code_2nd/temp_data/iv_model.ckpt-2000"
+all_model_checkpoint_paths: "/Users/fengcheng/Library/Mobile Documents/com~apple~CloudDocs/EECE5644/Project/Project_code_2nd/temp_data/iv_model.ckpt-500"
+all_model_checkpoint_paths: "/Users/fengcheng/Library/Mobile Documents/com~apple~CloudDocs/EECE5644/Project/Project_code_2nd/temp_data/iv_model.ckpt-1000"
+all_model_checkpoint_paths: "/Users/fengcheng/Library/Mobile Documents/com~apple~CloudDocs/EECE5644/Project/Project_code_2nd/temp_data/iv_model.ckpt-1500"
+all_model_checkpoint_paths: "/Users/fengcheng/Library/Mobile Documents/com~apple~CloudDocs/EECE5644/Project/Project_code_2nd/temp_data/iv_model.ckpt-2000"
